@@ -1,0 +1,26 @@
+body{
+    background-image: url(./cba84498037879.Y3JvcCw1ODU2LDQ1ODAsODExLDQyMA.jpg);
+    background-size: cover;
+    
+}
+
+#logo {
+    margin-left: 9%;
+}
+ .navigation{
+    float: right;
+    margin-top: 2%;
+    margin-right: 3%;
+
+ }
+ .navigation a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: rgb(30, 63, 210);
+    text-decoration: none;
+    border: 2px solid rgb(250, 4, 4);
+    padding: 10px;
+}
+.navigation a:hover{
+    background-color: blue;
+    color: black;
+}
